@@ -1,5 +1,6 @@
 import React, {PropTypes} from 'react';
 import Header from './common/Header';
+// import './about/AboutPage.scss';
 
 class App extends React.Component {
     render(){
